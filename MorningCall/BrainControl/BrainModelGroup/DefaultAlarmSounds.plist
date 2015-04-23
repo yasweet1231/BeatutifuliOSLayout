@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>displayName</key>
+		<string>Dumb</string>
+		<key>fileName</key>
+		<string>0_Dumb</string>
+	</dict>
+	<key>1</key>
+	<dict>
+		<key>displayName</key>
+		<string>Beautiful Music</string>
+		<key>fileName</key>
+		<string>1_Beautiful Music.mp3</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>displayName</key>
+		<string>Beautiful Bells</string>
+		<key>fileName</key>
+		<string>2_Beautiful Bells.mp3</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>displayName</key>
+		<string>Guten Morgen</string>
+		<key>fileName</key>
+		<string>3_Guten Morgen.mp3</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>displayName</key>
+		<string>Happy</string>
+		<key>fileName</key>
+		<string>4_Happy.mp3</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>displayName</key>
+		<string>Crazy Morning Alarm</string>
+		<key>fileName</key>
+		<string>5_Crazy Morning Alarm.mp3</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>displayName</key>
+		<string>Chicken</string>
+		<key>fileName</key>
+		<string>6_Chicken.mp3</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>displayName</key>
+		<string>Chicken-2</string>
+		<key>fileName</key>
+		<string>7_Chicken-2.mp3</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>displayName</key>
+		<string>Animals</string>
+		<key>fileName</key>
+		<string>8_Animals.mp3</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>displayName</key>
+		<string>Happy wake up tone</string>
+		<key>fileName</key>
+		<string>9_Happy wake up tone.mp3</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>displayName</key>
+		<string>Sweet</string>
+		<key>fileName</key>
+		<string>10_Sweet.mp3</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>displayName</key>
+		<string>Magic</string>
+		<key>fileName</key>
+		<string>11_Magic.mp3</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>displayName</key>
+		<string>Slow</string>
+		<key>fileName</key>
+		<string>12_Slow.mp3</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>displayName</key>
+		<string>Good Morning-1</string>
+		<key>fileName</key>
+		<string>13_Good Morning-1.mp3</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>displayName</key>
+		<string>Good Morning-2</string>
+		<key>fileName</key>
+		<string>14_Good Morning-2.mp3</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>displayName</key>
+		<string>Good Morning-3</string>
+		<key>fileName</key>
+		<string>15_Good Morning-3.mp3</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>displayName</key>
+		<string>Minion Ring Ring</string>
+		<key>fileName</key>
+		<string>16_Minion Ring Ring.mp3</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>displayName</key>
+		<string>Wake Up Alarm</string>
+		<key>fileName</key>
+		<string>17_Wake Up Alarm.mp3</string>
+	</dict>
+</dict>
+</plist>
